@@ -12,7 +12,7 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/bashar-telfah-005506226/",
           "class": "fab fa-linkedin"
-        }
+        },
         {
           "name": "instagram",
           "url": "https://www.instagram.com/basharst99/",
@@ -50,7 +50,6 @@
           "class": "devicon-python-plain",
           "level": "65"
         },
-        
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
